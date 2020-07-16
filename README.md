@@ -1,4 +1,3 @@
-### Hi there 👋
 # Minh Nguyen @enqminh
 Hi, I'm Minh - a junior front-end developer.
 
