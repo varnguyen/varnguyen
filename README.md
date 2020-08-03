@@ -17,7 +17,6 @@ Hi, I'm Minh - a junior front-end developer.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="30" height="30" alt="vue logo">
  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" class="rounded-1 mr-3" width="30" height="30" alt="aws">
  <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" class="rounded-1 mr-3" width="30" height="30" alt="babel">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" class="rounded-1 mr-3" width="30" height="30" alt="docker">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" class="rounded-1 mr-3" width="30" height="30" alt="es6">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" class="rounded-1 mr-3" width="30" height="30" alt="eslint">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="30" height="30" alt="git">
@@ -34,6 +33,8 @@ Hi, I'm Minh - a junior front-end developer.
 - Twitter: https://twitter.com/
 - Personal site: https://minhjohn.dev/
 - Cosplay/fashion IG: https://instagram.com/
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varnguyen) 
 
 ## A funny gif...😛
 ![](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/z14097j3qk_1_OF0xEMkWBv-69zvmNs6RDQ.gif)
