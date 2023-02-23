@@ -1,5 +1,5 @@
 # Minh Nguyen @varnguyen
-Hi, I'm Minh - a middle front-end developer.
+Hi, I'm Minh - a web front-end developer.
 
 ## My values
 💖 &nbsp; Safety and trust<br>
