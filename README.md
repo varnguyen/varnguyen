@@ -1,12 +1,6 @@
 # Minh Nguyen @varnguyen
-Hi, I'm Minh - a web front-end developer.
-
-## My values
-💖 &nbsp; Safety and trust<br>
-🌟 &nbsp; Expression as authentic self<br>
-🍏 &nbsp; Beginner's mindset and curiosity<br>
-🙌 &nbsp; Shared norms<br>
-🚀 &nbsp; Elevate the underrepresented
+- 🔭  &nbsp;I’m currently working on projects with React &nbsp;<img src="https://reactjs.org/favicon-32x32.png?v=f4d46f030265b4c48a05c999b8d93791" height="16px" width="16px" alt="react logo" /> and TypeScript
+- 🌱  &nbsp;Always learning anything and everything I can
 
 ## I have been working with
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" alt="css logo">
@@ -28,11 +22,6 @@ Hi, I'm Minh - a web front-end developer.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="30" height="30" alt="sql">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3" width="30" height="30" alt="typescript">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" class="rounded-1 mr-3" width="30" height="30" alt="webpack">
-
-## Get in touch
-- Twitter: https://twitter.com/
-- Personal site: https://minhjohn.dev/
-- Cosplay/fashion IG: https://instagram.com/
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varnguyen) 
 
